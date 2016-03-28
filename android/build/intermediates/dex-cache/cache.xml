@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-fa9019d241d92a8e7a42325c42c67f3b63ba487b.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-511519dc7727e6bd48f39b925e1906ae22797ad7.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-644e526ec951fb06578546b724c1e7b6d724acaf.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-1819eafacbf147378cb1c90dfb1f0544da4fd12e.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-a110f2be64f71b536aa933338e52f618cf0e6430.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-df75841b80c837c0fb7a8ccd9d9eb86a37580ba7.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-e929827b4ad6a120822a3a8ca3c2a3e9e65148d7.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-cfb1481d0f293fabf058a5d34d7b25f589a70421.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-cb9cfe04a5125df7eef344258115f1088f11d9d9.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-be6799808b9565631e4938211c79ce6ecbc30f4a.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-ba8160c371e9ceefe8650f33fa0a3150e1055ddf.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-3d11847f13f30229a38e77d11a6be590b1c85aea.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-bacd8d55d374d2334ddb2a268ec6facd55019f3e.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-37f62839f361145031ddbc50102dc146bfff34ef.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-d14d0e86db2d1591847fb9c9de7def8dffacb92b.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-b84205f6c13d920b3cb76ae84b163c67709b44f1.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b2f15bec1db9a9fddabbc29cf0172333040d7d7">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-99e391ae1edf2ffe77eaf9e9d216399ed07dc2cf.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-b1b9a9b417e2c37f9925bea15ddb7cf06a7b468b.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d030b93c8dd9d67bb3a0ab7c44d97f0c8e137f44.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-37d3950db53fde6b6d60830ba5036f44ec9ec747.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.22.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0cc39db3c06f47dee223c382f78e2bff90b74274">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-bf5f09045e1e44827e6d9c4c034f25201a938733.jar" />
+    </item>
+    <item
+        jar="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/weiguo/Documents/git/github/react-native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-3dadb80dd5c6e276cfa263ffc7cf2cfc79df36fa.jar" />
+    </item>
+
+</items>
