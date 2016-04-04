@@ -12,12 +12,14 @@ import React, {
 } from 'react-native';
 
 import ActivityIndicator from './src/component/ActivityIndicator';
+import DatePicker from './src/component/DatePicker';
 
 class AwesomeProject extends Component {
   render() {
     return (
       <View style={styles.container}>
         <ActivityIndicator />
+        <DatePicker />
       </View>
     );
   }
